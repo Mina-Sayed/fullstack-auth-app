@@ -350,9 +350,6 @@ const API_BASE_URL = process.env.VITE_API_URL || 'https://your-api-domain.com';
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
